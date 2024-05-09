@@ -1,0 +1,608 @@
+[
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "##"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 1,
+            "totalTokenCount": 608
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": " 黄金投资研究报告\n\n**2024年3月18"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 16,
+            "totalTokenCount": 623
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "日**\n\n**摘要：** 黄金作为传统的避险资产，在"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 32,
+            "totalTokenCount": 639
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "当前全球经济不确定性加剧、地缘政治风险上升的背景下，其投资价值再次受到关注。本文将分析黄金市场的基本面"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 64,
+            "totalTokenCount": 671
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "、技术面以及影响因素，并对未来黄金价格走势进行展望，以期为投资者提供参考。\n\n**1. 黄金市场基本"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 96,
+            "totalTokenCount": 703
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "面分析**\n\n* **供需关系：** 全球黄金产量近年来保持相对稳定，而需求则受到投资、珠宝和央行储备等因素的影响。 \n* **投资需求：** \n    *"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 144,
+            "totalTokenCount": 751
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": " **黄金ETF：** 全球黄金ETF持仓量持续波动，反映了投资者对黄金市场的情绪变化。\n    * **期货市场：** 黄金期货的净多头头寸变化，可以反映市场"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 192,
+            "totalTokenCount": 799
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "对未来黄金价格的预期。\n* **央行储备：** 各国央行近年来持续增持黄金储备，以分散外汇储备风险，提升国际储备资产的安全性。\n* **珠宝需求：** 黄金珠宝消费受经济增长、文化传统等因素影响"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 256,
+            "totalTokenCount": 863
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "，近年来呈现稳步增长态势。\n\n**2. 黄金市场技术面分析**\n\n* **价格走势：** 黄金价格在过去一年中呈现震荡上行走势，近期突破了关键阻力位，技术指标显示出一定的强势。\n* **支撑位和"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 320,
+            "totalTokenCount": 927
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "阻力位：**  技术分析可以识别出重要的支撑位和阻力位，为投资者提供交易参考。\n* **趋势线和形态：**  趋势线和形态分析可以帮助判断黄金价格的未来走势。\n\n**3. 黄金价格影响因素**\n\n* **宏"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 384,
+            "totalTokenCount": 991
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "观经济环境：** 全球经济增长、通货膨胀、利率水平等宏观经济因素都会对黄金价格产生影响。\n* **美元汇率：** 黄金价格与美元汇率通常呈负相关关系，美元走强往往会对黄金价格形成压力。\n* **地"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 448,
+            "totalTokenCount": 1055
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "缘政治风险：** 地缘政治局势紧张会提升市场避险情绪，从而推动黄金价格上涨。\n* **通货膨胀预期：**  通货膨胀预期上升会提升黄金的保值需求，从而支撑金价。\n\n**4. 黄金价格走势展望**\n\n"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 511,
+            "totalTokenCount": 1118
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "* **短期：** 预计短期内黄金价格将维持震荡上行走势，并有可能测试更高的阻力位。\n* **中期：** 中期来看，黄金价格走势仍将受到全球经济不确定性、地缘政治风险以及通货膨胀预期等因素的影响。\n"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 574,
+            "totalTokenCount": 1181
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "* **长期：** 长期来看，黄金作为重要的避险资产，其投资价值将持续受到关注。\n\n**5. 投资建议**\n\n* **资产配置：**  投资者可以根据自身的风险承受能力和投资目标，将黄金纳入资产配置组合，以分散投资风险。"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 638,
+            "totalTokenCount": 1245
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "\n* **投资方式：**  投资者可以选择实物黄金、黄金ETF、黄金期货等多种投资方式。\n* **风险控制：**  投资者需要注意黄金价格波动风险，并采取适当的风险控制措施。\n\n\n**免责声明：** 本报告仅供参考，不构成任何"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 701,
+            "totalTokenCount": 1308
+        }
+    },
+    {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "投资建议。投资者应根据自身情况进行独立判断并承担相应的投资风险。 \n\nTERMINATE? \n"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ],
+        "usageMetadata": {
+            "promptTokenCount": 607,
+            "candidatesTokenCount": 723,
+            "totalTokenCount": 1330
+        }
+    }
+]
